@@ -12,7 +12,7 @@ We are in the middle of cleaning up the code for open-source release, and we est
 In the meantime, check out [our subreddit](https://reddit.com/r/vispunk/) for updates!
 
 <p align="center">
-  <img src="./assets/screenshot.png" style="border-radius: 10px;" />
+  <img src="./assets/screenshot.jpg" style="border-radius: 10px;" />
   <br />
   <br />
   <a href="https://vispunk.com">
