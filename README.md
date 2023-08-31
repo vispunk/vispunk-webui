@@ -1,4 +1,5 @@
 <p align="center">
+<img width="150" src="./assets/icon.png"/>
 <h1 align="center"><b>Vispunk</b></h1>
 <p align="center">
   The image-first alternative for generative AI image workflows
